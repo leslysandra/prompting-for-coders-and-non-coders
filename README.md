@@ -14,9 +14,7 @@ Welcome to **Prompting for Coders and Non-Coders**! This repository is designed 
 4. [Usage](#usage)
    - [Using Prompt Examples for Chatbots](#using-prompt-examples-for-chatbots)
    - [Using Prompts with API Integration](#using-prompts-with-api-integration)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Contact](#contact)
+5. [Contact](#contact)
 
 ## Introduction
 
